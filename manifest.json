@@ -1,12 +1,15 @@
 {
   "short_name": "测试",
   "name": "这是一个完整的名字",
-  "icon": [
+  "icons": [
     {
       "src":"icon.jpg",
       "type":"image/jpg",
-      "size": "48x48"
+      "sizes": "48x48"
     }
   ],
-  "start_url": "index.html"
+  "start_url": "index.html",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "theme_color": "blue"
 }
