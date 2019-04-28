@@ -3,12 +3,12 @@
   "name": "这是一个完整的名字",
   "icons": [
     {
-      "src":"icon.jpg",
-      "type":"image/jpg",
+      "src":"icon.png",
+      "type":"image/png",
       "sizes": "48x48"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "background_color": "#2196f3",
   "display": "standalone",
   "theme_color": "blue"
