@@ -1,0 +1,12 @@
+{
+  "short_name": "测试",
+  "name": "这是一个完整的名字",
+  "icon": [
+    {
+      "src":"icon.jpg",
+      "type":"image/jpg",
+      "size": "48x48"
+    }
+  ],
+  "start_url": "index.html"
+}
