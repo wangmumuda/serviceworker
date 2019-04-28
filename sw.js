@@ -7,9 +7,9 @@ this.addEventListener('install',function (event) {
             return cache.addAll([
                 '/',
                 '/index.html',
-                '/mian.css',
-                '/main.js',
-                '/image/jpg'
+                '/main.css',
+                '/index.js',
+                '/icon.jpg'
             ]);
         })
     );
